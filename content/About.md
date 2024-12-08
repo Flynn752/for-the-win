@@ -8,4 +8,4 @@ some words here...
 
 ---
 
-Created with [Quartz](https://quartz.jzhao.xyz/) © 2024
+Created with [Quartz](https://quartz.jzhao.xyz/) and [Obsidian](https://obsidian.md/)
