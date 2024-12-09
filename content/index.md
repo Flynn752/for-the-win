@@ -1,5 +1,5 @@
 ---
-title: Welcome to For-The-Win
+title: Welcome to ForTheWin
 ---
 
 
